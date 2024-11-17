@@ -1,3 +1,5 @@
+# MADE BY AROUWA
+# THIS IS FOR EDUCATIONAL PURPOSES ONLY
 🔍 Find Line 24: Locate line 24 in the code where there’s a placeholder for a webhook URL.
 
 🔗 Insert Your Webhook URL: Replace the placeholder with your actual webhook URL, and that’s it—setup is complete!
